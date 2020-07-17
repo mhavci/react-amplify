@@ -17,6 +17,9 @@
                     "appId": "d1w316vii2sdk",
                     "type": "cicd"
                 }
+            },
+            "auth": {
+                "reactamplify48b47d5f": {}
             }
         }
     }
